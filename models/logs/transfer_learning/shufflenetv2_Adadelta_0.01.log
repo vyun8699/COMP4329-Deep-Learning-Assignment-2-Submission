@@ -1,0 +1,92 @@
+2024-05-03 06:15:45,201 - __main__ - INFO - Training   >>> Epoch: 1, Current LR: 0.01, Loss: 0.459, Time: 5m55s
+2024-05-03 06:20:35,350 - __main__ - INFO - Training   >>> Epoch: 2, Current LR: 0.01, Loss: 0.259, Time: 4m50s
+2024-05-03 06:20:55,863 - __main__ - INFO - Validation >>> Epoch: 2, Loss: 0.259, current lr: 0.01, F1 Score: 0.048, Time: 0m20s
+2024-05-03 06:26:55,771 - __main__ - INFO - Training   >>> Epoch: 3, Current LR: 0.01, Loss: 0.215, Time: 5m59s
+2024-05-03 06:33:19,114 - __main__ - INFO - Training   >>> Epoch: 4, Current LR: 0.01, Loss: 0.199, Time: 6m23s
+2024-05-03 06:33:39,548 - __main__ - INFO - Validation >>> Epoch: 4, Loss: 0.203, current lr: 0.01, F1 Score: 0.048, Time: 0m20s
+2024-05-03 06:40:46,836 - __main__ - INFO - Training   >>> Epoch: 5, Current LR: 0.01, Loss: 0.190, Time: 7m7s
+2024-05-03 06:47:37,009 - __main__ - INFO - Training   >>> Epoch: 6, Current LR: 0.01, Loss: 0.184, Time: 6m50s
+2024-05-03 06:47:57,120 - __main__ - INFO - Validation >>> Epoch: 6, Loss: 0.187, current lr: 0.01, F1 Score: 0.048, Time: 0m20s
+2024-05-03 06:55:25,785 - __main__ - INFO - Training   >>> Epoch: 7, Current LR: 0.01, Loss: 0.180, Time: 7m28s
+2024-05-03 07:01:26,978 - __main__ - INFO - Training   >>> Epoch: 8, Current LR: 0.01, Loss: 0.177, Time: 6m1s
+2024-05-03 07:01:46,751 - __main__ - INFO - Validation >>> Epoch: 8, Loss: 0.177, current lr: 0.01, F1 Score: 0.048, Time: 0m19s
+2024-05-03 07:08:17,462 - __main__ - INFO - Training   >>> Epoch: 9, Current LR: 0.01, Loss: 0.174, Time: 6m30s
+2024-05-03 07:14:03,793 - __main__ - INFO - Training   >>> Epoch: 10, Current LR: 0.01, Loss: 0.171, Time: 5m46s
+2024-05-03 07:14:23,952 - __main__ - INFO - Validation >>> Epoch: 10, Loss: 0.171, current lr: 0.01, F1 Score: 0.049, Time: 0m20s
+2024-05-03 07:18:12,684 - __main__ - INFO - Training   >>> Epoch: 11, Current LR: 0.01, Loss: 0.168, Time: 3m48s
+2024-05-03 07:22:07,968 - __main__ - INFO - Training   >>> Epoch: 12, Current LR: 0.01, Loss: 0.166, Time: 3m55s
+2024-05-03 07:22:27,877 - __main__ - INFO - Validation >>> Epoch: 12, Loss: 0.165, current lr: 0.01, F1 Score: 0.051, Time: 0m19s
+2024-05-03 07:26:17,122 - __main__ - INFO - Training   >>> Epoch: 13, Current LR: 0.01, Loss: 0.163, Time: 3m49s
+2024-05-03 07:30:03,806 - __main__ - INFO - Training   >>> Epoch: 14, Current LR: 0.01, Loss: 0.161, Time: 3m46s
+2024-05-03 07:30:23,445 - __main__ - INFO - Validation >>> Epoch: 14, Loss: 0.160, current lr: 0.01, F1 Score: 0.058, Time: 0m19s
+2024-05-03 07:34:20,846 - __main__ - INFO - Training   >>> Epoch: 15, Current LR: 0.01, Loss: 0.159, Time: 3m57s
+2024-05-03 07:38:17,298 - __main__ - INFO - Training   >>> Epoch: 16, Current LR: 0.01, Loss: 0.157, Time: 3m56s
+2024-05-03 07:38:37,028 - __main__ - INFO - Validation >>> Epoch: 16, Loss: 0.156, current lr: 0.01, F1 Score: 0.072, Time: 0m19s
+2024-05-03 07:42:26,522 - __main__ - INFO - Training   >>> Epoch: 17, Current LR: 0.01, Loss: 0.156, Time: 3m49s
+2024-05-03 07:46:16,541 - __main__ - INFO - Training   >>> Epoch: 18, Current LR: 0.01, Loss: 0.154, Time: 3m49s
+2024-05-03 07:46:36,993 - __main__ - INFO - Validation >>> Epoch: 18, Loss: 0.152, current lr: 0.01, F1 Score: 0.095, Time: 0m20s
+2024-05-03 07:50:28,282 - __main__ - INFO - Training   >>> Epoch: 19, Current LR: 0.01, Loss: 0.152, Time: 3m51s
+2024-05-03 07:54:18,156 - __main__ - INFO - Training   >>> Epoch: 20, Current LR: 0.01, Loss: 0.151, Time: 3m49s
+2024-05-03 07:54:37,945 - __main__ - INFO - Validation >>> Epoch: 20, Loss: 0.148, current lr: 0.01, F1 Score: 0.118, Time: 0m19s
+2024-05-03 07:58:22,372 - __main__ - INFO - Training   >>> Epoch: 21, Current LR: 0.01, Loss: 0.149, Time: 3m44s
+2024-05-03 08:02:08,472 - __main__ - INFO - Training   >>> Epoch: 22, Current LR: 0.01, Loss: 0.148, Time: 3m46s
+2024-05-03 08:02:28,238 - __main__ - INFO - Validation >>> Epoch: 22, Loss: 0.145, current lr: 0.01, F1 Score: 0.139, Time: 0m19s
+2024-05-03 08:06:16,601 - __main__ - INFO - Training   >>> Epoch: 23, Current LR: 0.01, Loss: 0.147, Time: 3m48s
+2024-05-03 08:10:04,136 - __main__ - INFO - Training   >>> Epoch: 24, Current LR: 0.01, Loss: 0.146, Time: 3m47s
+2024-05-03 08:10:24,022 - __main__ - INFO - Validation >>> Epoch: 24, Loss: 0.142, current lr: 0.01, F1 Score: 0.163, Time: 0m19s
+2024-05-03 08:14:15,761 - __main__ - INFO - Training   >>> Epoch: 25, Current LR: 0.01, Loss: 0.144, Time: 3m51s
+2024-05-03 08:17:59,895 - __main__ - INFO - Training   >>> Epoch: 26, Current LR: 0.01, Loss: 0.143, Time: 3m44s
+2024-05-03 08:18:20,130 - __main__ - INFO - Validation >>> Epoch: 26, Loss: 0.139, current lr: 0.01, F1 Score: 0.191, Time: 0m20s
+2024-05-03 08:22:08,400 - __main__ - INFO - Training   >>> Epoch: 27, Current LR: 0.01, Loss: 0.142, Time: 3m48s
+2024-05-03 08:25:57,724 - __main__ - INFO - Training   >>> Epoch: 28, Current LR: 0.01, Loss: 0.141, Time: 3m49s
+2024-05-03 08:26:17,518 - __main__ - INFO - Validation >>> Epoch: 28, Loss: 0.137, current lr: 0.01, F1 Score: 0.215, Time: 0m19s
+2024-05-03 08:30:07,187 - __main__ - INFO - Training   >>> Epoch: 29, Current LR: 0.01, Loss: 0.140, Time: 3m49s
+2024-05-03 08:33:55,410 - __main__ - INFO - Training   >>> Epoch: 30, Current LR: 0.01, Loss: 0.139, Time: 3m48s
+2024-05-03 08:34:15,591 - __main__ - INFO - Validation >>> Epoch: 30, Loss: 0.135, current lr: 0.01, F1 Score: 0.234, Time: 0m20s
+2024-05-03 08:38:02,329 - __main__ - INFO - Training   >>> Epoch: 31, Current LR: 0.01, Loss: 0.138, Time: 3m46s
+2024-05-03 08:41:52,587 - __main__ - INFO - Training   >>> Epoch: 32, Current LR: 0.01, Loss: 0.137, Time: 3m50s
+2024-05-03 08:42:12,713 - __main__ - INFO - Validation >>> Epoch: 32, Loss: 0.133, current lr: 0.01, F1 Score: 0.269, Time: 0m19s
+2024-05-03 08:47:24,702 - __main__ - INFO - Training   >>> Epoch: 33, Current LR: 0.01, Loss: 0.136, Time: 5m11s
+2024-05-03 08:52:31,292 - __main__ - INFO - Training   >>> Epoch: 34, Current LR: 0.01, Loss: 0.135, Time: 5m6s
+2024-05-03 08:52:51,306 - __main__ - INFO - Validation >>> Epoch: 34, Loss: 0.131, current lr: 0.01, F1 Score: 0.289, Time: 0m19s
+2024-05-03 09:00:10,711 - __main__ - INFO - Training   >>> Epoch: 35, Current LR: 0.01, Loss: 0.134, Time: 7m19s
+2024-05-03 09:07:10,655 - __main__ - INFO - Training   >>> Epoch: 36, Current LR: 0.01, Loss: 0.134, Time: 6m59s
+2024-05-03 09:07:31,057 - __main__ - INFO - Validation >>> Epoch: 36, Loss: 0.129, current lr: 0.01, F1 Score: 0.310, Time: 0m20s
+2024-05-03 09:14:22,297 - __main__ - INFO - Training   >>> Epoch: 37, Current LR: 0.01, Loss: 0.133, Time: 6m51s
+2024-05-03 09:20:45,774 - __main__ - INFO - Training   >>> Epoch: 38, Current LR: 0.01, Loss: 0.132, Time: 6m23s
+2024-05-03 09:21:05,584 - __main__ - INFO - Validation >>> Epoch: 38, Loss: 0.127, current lr: 0.01, F1 Score: 0.326, Time: 0m19s
+2024-05-03 09:27:42,451 - __main__ - INFO - Training   >>> Epoch: 39, Current LR: 0.01, Loss: 0.132, Time: 6m36s
+2024-05-03 09:34:18,525 - __main__ - INFO - Training   >>> Epoch: 40, Current LR: 0.01, Loss: 0.131, Time: 6m36s
+2024-05-03 09:34:38,403 - __main__ - INFO - Validation >>> Epoch: 40, Loss: 0.126, current lr: 0.01, F1 Score: 0.346, Time: 0m19s
+2024-05-03 09:42:05,451 - __main__ - INFO - Training   >>> Epoch: 41, Current LR: 0.01, Loss: 0.131, Time: 7m27s
+2024-05-03 09:47:19,527 - __main__ - INFO - Training   >>> Epoch: 42, Current LR: 0.01, Loss: 0.129, Time: 5m14s
+2024-05-03 09:47:39,457 - __main__ - INFO - Validation >>> Epoch: 42, Loss: 0.124, current lr: 0.01, F1 Score: 0.362, Time: 0m19s
+2024-05-03 09:51:35,942 - __main__ - INFO - Training   >>> Epoch: 43, Current LR: 0.01, Loss: 0.130, Time: 3m56s
+2024-05-03 09:55:41,436 - __main__ - INFO - Training   >>> Epoch: 44, Current LR: 0.01, Loss: 0.129, Time: 4m5s
+2024-05-03 09:56:01,604 - __main__ - INFO - Validation >>> Epoch: 44, Loss: 0.123, current lr: 0.01, F1 Score: 0.378, Time: 0m20s
+2024-05-03 09:59:54,464 - __main__ - INFO - Training   >>> Epoch: 45, Current LR: 0.01, Loss: 0.128, Time: 3m52s
+2024-05-03 10:03:41,000 - __main__ - INFO - Training   >>> Epoch: 46, Current LR: 0.01, Loss: 0.127, Time: 3m46s
+2024-05-03 10:04:00,729 - __main__ - INFO - Validation >>> Epoch: 46, Loss: 0.122, current lr: 0.01, F1 Score: 0.394, Time: 0m19s
+2024-05-03 10:07:47,642 - __main__ - INFO - Training   >>> Epoch: 47, Current LR: 0.01, Loss: 0.127, Time: 3m46s
+2024-05-03 10:11:35,266 - __main__ - INFO - Training   >>> Epoch: 48, Current LR: 0.01, Loss: 0.127, Time: 3m47s
+2024-05-03 10:11:55,276 - __main__ - INFO - Validation >>> Epoch: 48, Loss: 0.121, current lr: 0.01, F1 Score: 0.407, Time: 0m19s
+2024-05-03 10:15:45,350 - __main__ - INFO - Training   >>> Epoch: 49, Current LR: 0.01, Loss: 0.126, Time: 3m50s
+2024-05-03 10:19:37,040 - __main__ - INFO - Training   >>> Epoch: 50, Current LR: 0.01, Loss: 0.126, Time: 3m51s
+2024-05-03 10:19:56,895 - __main__ - INFO - Validation >>> Epoch: 50, Loss: 0.119, current lr: 0.01, F1 Score: 0.416, Time: 0m19s
+2024-05-03 10:23:45,683 - __main__ - INFO - Training   >>> Epoch: 51, Current LR: 0.01, Loss: 0.125, Time: 3m48s
+2024-05-03 10:27:33,389 - __main__ - INFO - Training   >>> Epoch: 52, Current LR: 0.01, Loss: 0.125, Time: 3m47s
+2024-05-03 10:27:53,360 - __main__ - INFO - Validation >>> Epoch: 52, Loss: 0.118, current lr: 0.01, F1 Score: 0.424, Time: 0m19s
+2024-05-03 10:31:45,287 - __main__ - INFO - Training   >>> Epoch: 53, Current LR: 0.01, Loss: 0.124, Time: 3m51s
+2024-05-03 10:35:39,253 - __main__ - INFO - Training   >>> Epoch: 54, Current LR: 0.01, Loss: 0.124, Time: 3m53s
+2024-05-03 10:36:01,380 - __main__ - INFO - Validation >>> Epoch: 54, Loss: 0.117, current lr: 0.01, F1 Score: 0.433, Time: 0m22s
+2024-05-03 10:39:59,732 - __main__ - INFO - Training   >>> Epoch: 55, Current LR: 0.01, Loss: 0.124, Time: 3m58s
+2024-05-03 10:43:51,366 - __main__ - INFO - Training   >>> Epoch: 56, Current LR: 0.01, Loss: 0.123, Time: 3m51s
+2024-05-03 10:44:11,167 - __main__ - INFO - Validation >>> Epoch: 56, Loss: 0.117, current lr: 0.01, F1 Score: 0.438, Time: 0m19s
+2024-05-03 10:48:01,895 - __main__ - INFO - Training   >>> Epoch: 57, Current LR: 0.01, Loss: 0.122, Time: 3m50s
+2024-05-03 10:51:54,469 - __main__ - INFO - Training   >>> Epoch: 58, Current LR: 0.01, Loss: 0.122, Time: 3m52s
+2024-05-03 10:52:14,342 - __main__ - INFO - Validation >>> Epoch: 58, Loss: 0.116, current lr: 0.01, F1 Score: 0.441, Time: 0m19s
+2024-05-03 10:56:08,618 - __main__ - INFO - Training   >>> Epoch: 59, Current LR: 0.01, Loss: 0.122, Time: 3m54s
+2024-05-03 10:59:58,861 - __main__ - INFO - Training   >>> Epoch: 60, Current LR: 0.01, Loss: 0.122, Time: 3m50s
+2024-05-03 11:00:18,617 - __main__ - INFO - Validation >>> Epoch: 60, Loss: 0.115, current lr: 0.01, F1 Score: 0.458, Time: 0m19s
+2024-05-03 11:00:18,619 - __main__ - INFO - Training concluded >>> Total Run Time: 290m25s
+2024-05-03 11:00:18,790 - __main__ - INFO - Model size on disk: 20.76 MB
