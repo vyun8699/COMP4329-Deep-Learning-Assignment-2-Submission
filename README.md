@@ -24,6 +24,11 @@ Files to be explained by 'fileName' and device  usage annotated in brackets ('')
 - log visualizer: tableau file (.twb) used to create dynamic visualization, use link in report to access HTML version.
 - dot_regnet_architecture: layer visualization of the best model (regnet AdaDelta)
 
+## all model output (including the best model prediction output)
+- All output can be accessed in models/output/final
+- The best model is saved in models/output/final/regnetMixPrec_Adadelta_0.01.csv
+- Predicted_labels.txt is saved in the root directory. This file is the same as the best model csv above.
+
 ## folders
 - data: contain all image files and train and test files
 - backup: contain other documents (e.g. excel file used for report)
