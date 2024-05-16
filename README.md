@@ -13,7 +13,7 @@ Option 2: run '500543568_530454874_MixPrec.ipynb' after cloning this repo.
 All files are annotated as 'SID1_SID2_fileName.ipynb' and can be run top to bottom.
 Please not that some files are run on mps and others on cuda due to the team's machine limitation.
 
-Files to be explained by 'fileName' and device  usage annotated in brackets ('') below:
+Files to be explained by 'fileName' and device  usage annotated in brackets ( ) below:
 - TransferLearning (mps): runs combinations of pre-trained models and optimizers.
 - layerVisualizer (mps): loads the best model and visualizes it's layers.
 - MixPrec (cuda): re-trains the best model (RegNet AdaDelta) with MixPrecision on CUDA.
