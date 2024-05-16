@@ -6,8 +6,8 @@ This repo is ran on Python 3.11.5 or higher.
 All dependencies/library imports are ran in individual ipynb files. 
 
 ## how to run best model
-Option 1: use the colab file provided in the report
-Option 2: run '500543568_530454874_MixPrec.ipynb' after cloning this repo.
+Option 1: use the colab file provided in the report  
+Option 2: run '500543568_530454874_MixPrec.ipynb' after cloning this repo.  
 
 ## ipynb files
 All files are annotated as 'SID1_SID2_fileName.ipynb' and can be run top to bottom.
